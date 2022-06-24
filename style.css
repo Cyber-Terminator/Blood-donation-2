@@ -1,0 +1,56 @@
+.header{
+    background-color: grey;
+    text-align: center;
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    overflow: hidden;
+}
+.navtop{
+    float: left;
+}
+.navtop a{
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+}
+.navtop a:hover{
+    background-color: grey;
+    color: black;
+}
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+table{
+    background-color:grey;
+    color: black;
+    text-align:center;
+}
+tr{
+    border:3px solid black;
+}
+td{
+    border:3px solid black;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+footer p{
+    text-align: center;
+    font-size: 10;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
